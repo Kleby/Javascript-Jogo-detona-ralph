@@ -44,6 +44,11 @@ também nessa tela tem a opção de dificuldade, que irá aumentar a velocidade 
 <li>
   Abra o diretório e execulte o index.html em um browser de sua preferência
 </li>
+
+<li>
+  <h2>Como Jogar</h2>
+  Iniciei o jogo e tentar acerta a imagem do Ralph
+</li>
 </ol>
 
 ## Abrir o jogo Remotamente

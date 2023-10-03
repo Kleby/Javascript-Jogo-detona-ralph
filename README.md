@@ -13,15 +13,15 @@ também nessa tela tem a opção de dificuldade, que irá aumentar a velocidade 
 
 ### Tela inicial do jogo
 
-![Tela Inicial do jogo.](src\assets\images\tela-pagina_inicial.png)
+![Tela Inicial do jogo.](src/assets/images/tela-pagina_inicial.png)
 
 ### Tela de Opções
 
-![Tela Opções do jogo.](src\assets\images\tela-opcoes.png)
+![Tela Opções do jogo.](src/assets/images/tela-opcoes.png)
 
 ### Tela do jogo 
 
-![Tela do jogo.](src\assets\images\tela-jogo.png)
+![Tela do jogo.](src/assets/images/tela-jogo.png)
 
 <hr>
 
@@ -29,4 +29,23 @@ também nessa tela tem a opção de dificuldade, que irá aumentar a velocidade 
 
 ### Siga os passos abaixo para inicializar o projeto em seu ambiente local: 
 
-  \``` bash $ git clone https://github.com/seu-usuario/seu-projeto.git <button class="btn" data-clipboard-target="#cloneCommand">Copiar</button>
+<ol>
+  
+<li>
+  <h4>
+    Clone o diretório
+  </h4>
+  
+    git clone https://github.com/Kleby/Javascript-Jogo-detona-ralph.git 
+</li>  
+<li>
+  Selecione o seu diretório local para clonar
+</li>
+<li>
+  Abra o diretório e execulte o index.html em um browser de sua preferência
+</li>
+</ol>
+
+## Abrir o jogo Remotamente
+
+<a href="#"  target="_blank"> Abra Esse link para ser redirecionado a página remota do jogo </a>

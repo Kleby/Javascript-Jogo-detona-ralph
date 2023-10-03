@@ -1,5 +1,16 @@
 # Jogo Detona Ralph
 
+## Sumário
+- [Sobre o Projeto](#projeto-feito-com-javascript-css-e-html)
+- [Telas do Jogo](#telas-do-jogo)
+  - [Tela Inicial do Jogo](#tela-inicial-do-jogo)
+  - [Tela de Opções](#tela-de-op%C3%A7%C3%B5es)
+  - [Tela do Jogo](#tela-do-jogo)
+- [Instruções](#instru%C3%A7%C3%B5es)
+  - [Siga os passos abaixo para inicializar o projeto em seu ambiente local](#siga-os-passos-abaixo-para-inicializar-o-projeto-em-seu-ambiente-local)
+- [Abrir o Jogo Remotamente](#abrir-o-jogo-remotamente)
+- [Usuário](#usu%C3%A1rio)
+
 ## Projeto feito com javascritp, css e HTML.
 
 Ele é um jogo simples com o objetivo de clicar no quadrado com a imagem do Ralph.
@@ -53,4 +64,12 @@ também nessa tela tem a opção de dificuldade, que irá aumentar a velocidade 
 
 ## Abrir o jogo Remotamente
 
-<a href="#"  target="_blank"> Abra Esse link para ser redirecionado a página remota do jogo </a>
+<a href="https://kleby.github.io/Javascript-Jogo-detona-ralph/"  target="_blank"> Abra Esse link para ser redirecionado a página remota do jogo </a>
+
+## Usuário
+
+Você pode me encontrar nas redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/jkleby/)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-orange)](https://instagram.com/klebyveiga?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-green)](https://wa.me/+5587981662214)

@@ -64,7 +64,7 @@ também nessa tela tem a opção de dificuldade, que irá aumentar a velocidade 
 
 ## Abrir o jogo Remotamente
 
-<a href="https://kleby.github.io/Javascript-Jogo-detona-ralph/"  target="_blank"> Abra Esse link para ser redirecionado a página remota do jogo </a>
+[Clique aqui para ser redirecionado à página remota do jogo](https://kleby.github.io/Javascript-Jogo-detona-ralph/)
 
 ## Usuário
 
